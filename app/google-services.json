@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "724095690518",
+    "firebase_url": "https://login-profile-cb792.firebaseio.com",
+    "project_id": "login-profile-cb792",
+    "storage_bucket": "login-profile-cb792.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724095690518:android:29300b3bb80a7760",
+        "android_client_info": {
+          "package_name": "com.example.loginprofile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724095690518-t9b1bnpvt04pevb53h6u8kosntp8rg5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginprofile",
+            "certificate_hash": "963c1b1a8c08dc8988273475b0f016227d5d6e88"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqOoD2kmMmsCBR3CAG9HyTu4EiUVklvb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724095690518-jr8jfmo00jl2klg7s32l0u5u5cs2nb52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
